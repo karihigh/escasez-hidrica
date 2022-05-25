@@ -1,0 +1,1875 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5906057,-33.6186082 ]
+    },
+    "properties": {
+    "Comuna":"Puente Alto",
+    "Habitantes":"568,106"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5500276,-33.0153481 ]
+    },
+    "properties": {
+    "Comuna":"Viña del Mar",
+    "Habitantes":"334,248"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6987361,-33.5854485 ]
+    },
+    "properties": {
+    "Comuna":"San Bernardo",
+    "Habitantes":"301,313"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6126885,-33.047238 ]
+    },
+    "properties": {
+    "Comuna":"Valparaíso",
+    "Habitantes":"296,655"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.567069,-33.4087844 ]
+    },
+    "properties": {
+    "Comuna":"Las Condes",
+    "Habitantes":"294,838"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.0053446,-41.2571702 ]
+    },
+    "properties": {
+    "Comuna":"Llanquihue",
+    "Habitantes":"245,902"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.9411364,-41.468917 ]
+    },
+    "properties": {
+    "Comuna":"Puerto Montt",
+    "Habitantes":"245,902"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7406259,-34.1701324 ]
+    },
+    "properties": {
+    "Comuna":"Rancagua",
+    "Habitantes":"241,774"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7640644,-33.4421135 ]
+    },
+    "properties": {
+    "Comuna":"Pudahuel",
+    "Habitantes":"230,293"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3389183,-29.9590009 ]
+    },
+    "properties": {
+    "Comuna":"Coquimbo",
+    "Habitantes":"221,054"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2519374,-29.9026691 ]
+    },
+    "properties": {
+    "Comuna":"La Serena",
+    "Habitantes":"221,054"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6884912,-35.5183364 ]
+    },
+    "properties": {
+    "Comuna":"Maule",
+    "Habitantes":"220,357"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6484804,-35.4232444 ]
+    },
+    "properties": {
+    "Comuna":"Talca",
+    "Habitantes":"220,357"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.1149469,-40.5761897 ]
+    },
+    "properties": {
+    "Comuna":"Osorno",
+    "Habitantes":"161,460"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.3321587,-27.3665763 ]
+    },
+    "properties": {
+    "Comuna":"Copiapó",
+    "Habitantes":"153,937"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4408752,-33.0482707 ]
+    },
+    "properties": {
+    "Comuna":"Quilpué",
+    "Habitantes":"151,708"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2528803,-34.9779853 ]
+    },
+    "properties": {
+    "Comuna":"Curicó",
+    "Habitantes":"149,136"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.683407,-33.205285 ]
+    },
+    "properties": {
+    "Comuna":"Colina",
+    "Habitantes":"146,207"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3906234,-33.0516935 ]
+    },
+    "properties": {
+    "Comuna":"Villa Alemana",
+    "Habitantes":"126,548"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2180485,-33.6858668 ]
+    },
+    "properties": {
+    "Comuna":"Melipilla",
+    "Habitantes":"123,627"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1969882,-30.604304 ]
+    },
+    "properties": {
+    "Comuna":"Ovalle",
+    "Habitantes":"111,272"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.518517,-33.352669 ]
+    },
+    "properties": {
+    "Comuna":"Lo Barnechea",
+    "Habitantes":"105,833"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.879328,-33.2827093 ]
+    },
+    "properties": {
+    "Comuna":"Lampa",
+    "Habitantes":"102,034"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.742431,-33.7313897 ]
+    },
+    "properties": {
+    "Comuna":"Buin",
+    "Habitantes":"96,614"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5996137,-35.846407 ]
+    },
+    "properties": {
+    "Comuna":"Linares",
+    "Habitantes":"93,602"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.615527,-33.596297 ]
+    },
+    "properties": {
+    "Comuna":"San Antonio",
+    "Habitantes":"91,350"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2497156,-32.8803027 ]
+    },
+    "properties": {
+    "Comuna":"Quillota",
+    "Habitantes":"90,517"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8781837,-33.6060255 ]
+    },
+    "properties": {
+    "Comuna":"Peñaflor",
+    "Habitantes":"90,201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5724124,-33.3905211 ]
+    },
+    "properties": {
+    "Comuna":"Vitacura",
+    "Habitantes":"85,384"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.724322,-32.750542 ]
+    },
+    "properties": {
+    "Comuna":"San Felipe",
+    "Habitantes":"76,844"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9249706,-33.6625182 ]
+    },
+    "properties": {
+    "Comuna":"Talagante",
+    "Habitantes":"74,237"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.988455,-34.584025 ]
+    },
+    "properties": {
+    "Comuna":"San Fernando",
+    "Habitantes":"73,973"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.742165,-33.807208 ]
+    },
+    "properties": {
+    "Comuna":"Paine",
+    "Habitantes":"72,759"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.597649,-32.83426 ]
+    },
+    "properties": {
+    "Comuna":"Los Andes",
+    "Habitantes":"66,708"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8156717,-33.5695362 ]
+    },
+    "properties": {
+    "Comuna":"Padre Hurtado",
+    "Habitantes":"63,250"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.861639,-34.402875 ]
+    },
+    "properties": {
+    "Comuna":"Rengo",
+    "Habitantes":"58,825"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6565151,-34.179452 ]
+    },
+    "properties": {
+    "Comuna":"Machalí",
+    "Habitantes":"52,505"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.200867,-32.78836 ]
+    },
+    "properties": {
+    "Comuna":"Calera",
+    "Habitantes":"50,554"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.077164,-34.439167 ]
+    },
+    "properties": {
+    "Comuna":"San Vicente",
+    "Habitantes":"46,766"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2599351,-33.0072762 ]
+    },
+    "properties": {
+    "Comuna":"Limache",
+    "Habitantes":"46,121"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.412201,-35.331423 ]
+    },
+    "properties": {
+    "Comuna":"Constitución",
+    "Habitantes":"46,068"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.279376,-35.11437 ]
+    },
+    "properties": {
+    "Comuna":"Molina",
+    "Habitantes":"45,976"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.729253,-35.595685 ]
+    },
+    "properties": {
+    "Comuna":"San Javier",
+    "Habitantes":"45,547"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.9833,-41.3167 ]
+    },
+    "properties": {
+    "Comuna":"Puerto Varas",
+    "Habitantes":"44,578"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.763579,-42.48293 ]
+    },
+    "properties": {
+    "Comuna":"Castro",
+    "Habitantes":"43,807"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.48647,-35.537295 ]
+    },
+    "properties": {
+    "Comuna":"San Clemente",
+    "Habitantes":"43,269"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5186065,-32.9299468 ]
+    },
+    "properties": {
+    "Comuna":"Concón",
+    "Habitantes":"42,152"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.822985,-36.141303 ]
+    },
+    "properties": {
+    "Comuna":"Parral",
+    "Habitantes":"41,637"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.3222331,-35.9676285 ]
+    },
+    "properties": {
+    "Comuna":"Cauquenes",
+    "Habitantes":"40,441"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8276965,-41.8675003 ]
+    },
+    "properties": {
+    "Comuna":"Ancud",
+    "Habitantes":"38,991"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.359098,-34.632662 ]
+    },
+    "properties": {
+    "Comuna":"Santa Cruz",
+    "Habitantes":"37,855"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.985381,-33.68117 ]
+    },
+    "properties": {
+    "Comuna":"El Monte",
+    "Habitantes":"35,923"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0412713,-34.70924 ]
+    },
+    "properties": {
+    "Comuna":"Chimbarongo",
+    "Habitantes":"35,399"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2325958,-32.4499018 ]
+    },
+    "properties": {
+    "Comuna":"La Ligua",
+    "Habitantes":"35,390"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9239735,-32.2501986 ]
+    },
+    "properties": {
+    "Comuna":"Petorca",
+    "Habitantes":"35,390"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.1327093,-41.7720156 ]
+    },
+    "properties": {
+    "Comuna":"Calbuco",
+    "Habitantes":"33,985"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7325646,-34.0666916 ]
+    },
+    "properties": {
+    "Comuna":"Graneros",
+    "Habitantes":"33,437"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1267263,-33.4009037 ]
+    },
+    "properties": {
+    "Comuna":"Curacaví",
+    "Habitantes":"32,579"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.52756,-32.785433 ]
+    },
+    "properties": {
+    "Comuna":"Quintero",
+    "Habitantes":"31,923"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1653,-31.6308 ]
+    },
+    "properties": {
+    "Comuna":"Illapel",
+    "Habitantes":"30,848"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9610949,-30.6916433 ]
+    },
+    "properties": {
+    "Comuna":"Monte Patria",
+    "Habitantes":"30,751"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6876473,-35.9634456 ]
+    },
+    "properties": {
+    "Comuna":"Longaví",
+    "Habitantes":"30,534"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.964187,-31.780503 ]
+    },
+    "properties": {
+    "Comuna":"Salamanca",
+    "Habitantes":"29,347"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.166237,-34.870066 ]
+    },
+    "properties": {
+    "Comuna":"Teno",
+    "Habitantes":"28,921"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8211772,-34.2866812 ]
+    },
+    "properties": {
+    "Comuna":"Requínoa",
+    "Habitantes":"27,968"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7080736,-30.0326781 ]
+    },
+    "properties": {
+    "Comuna":"Vicuña",
+    "Habitantes":"27,771"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6138821,-43.1169327 ]
+    },
+    "properties": {
+    "Comuna":"Quellón",
+    "Habitantes":"27,192"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.406801,-33.31856 ]
+    },
+    "properties": {
+    "Comuna":"Casablanca",
+    "Habitantes":"26,867"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5883812,-33.6874736 ]
+    },
+    "properties": {
+    "Comuna":"Pirque",
+    "Habitantes":"26,521"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.197222,-32.786667 ]
+    },
+    "properties": {
+    "Comuna":"Calera de Tango",
+    "Habitantes":"25,392"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7042142,-33.9780168 ]
+    },
+    "properties": {
+    "Comuna":"Mostazal",
+    "Habitantes":"25,343"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3126828,-34.29345 ]
+    },
+    "properties": {
+    "Comuna":"Las Cabras",
+    "Habitantes":"24,640"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.956166,-32.8409806 ]
+    },
+    "properties": {
+    "Comuna":"Llaillay",
+    "Habitantes":"24,608"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.60456,-33.545673 ]
+    },
+    "properties": {
+    "Comuna":"Cartagena",
+    "Habitantes":"22,738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.200323,-32.734291 ]
+    },
+    "properties": {
+    "Comuna":"Nogales",
+    "Habitantes":"22,120"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.226976,-32.826166 ]
+    },
+    "properties": {
+    "Comuna":"La Cruz",
+    "Habitantes":"22,098"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5112017,-31.9121865 ]
+    },
+    "properties": {
+    "Comuna":"Los Vilos",
+    "Habitantes":"21,382"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9647319,-34.223743 ]
+    },
+    "properties": {
+    "Comuna":"Doñihue",
+    "Habitantes":"20,887"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4146915,-35.699248 ]
+    },
+    "properties": {
+    "Comuna":"Colbún",
+    "Habitantes":"20,765"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.1638727,-40.911546 ]
+    },
+    "properties": {
+    "Comuna":"Purranque",
+    "Habitantes":"20,369"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.758897,-36.049393 ]
+    },
+    "properties": {
+    "Comuna":"Retiro",
+    "Habitantes":"19,974"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2857906,-34.3560474 ]
+    },
+    "properties": {
+    "Comuna":"Pichidegua",
+    "Habitantes":"19,714"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0845001,-34.287371 ]
+    },
+    "properties": {
+    "Comuna":"Coltauco",
+    "Habitantes":"19,597"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.065531,-32.425617 ]
+    },
+    "properties": {
+    "Comuna":"Cabildo",
+    "Habitantes":"19,388"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9279843,-33.0838906 ]
+    },
+    "properties": {
+    "Comuna":"Tiltil",
+    "Habitantes":"19,312"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.579841,-32.799555 ]
+    },
+    "properties": {
+    "Comuna":"San Esteban",
+    "Habitantes":"18,855"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128372,-32.7262218 ]
+    },
+    "properties": {
+    "Comuna":"Puchuncaví",
+    "Habitantes":"18,546"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.381172,-35.000365 ]
+    },
+    "properties": {
+    "Comuna":"Sagrada Familia",
+    "Habitantes":"18,544"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.0496952,-41.112498 ]
+    },
+    "properties": {
+    "Comuna":"Frutillar",
+    "Habitantes":"18,428"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.3512184,-33.6462226 ]
+    },
+    "properties": {
+    "Comuna":"San José de Maipo",
+    "Habitantes":"18,189"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.5888718,-35.7508023 ]
+    },
+    "properties": {
+    "Comuna":"Yerbas Buenas",
+    "Habitantes":"18,081"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1463438,-32.7986559 ]
+    },
+    "properties": {
+    "Comuna":"Hijuelas",
+    "Habitantes":"17,988"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1968597,-34.6523209 ]
+    },
+    "properties": {
+    "Comuna":"Nancagua",
+    "Habitantes":"17,833"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.822102,-27.072041 ]
+    },
+    "properties": {
+    "Comuna":"Caldera",
+    "Habitantes":"17,662"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1812984,-32.9958297 ]
+    },
+    "properties": {
+    "Comuna":"Olmué",
+    "Habitantes":"17,516"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4651433,-41.3944267 ]
+    },
+    "properties": {
+    "Comuna":"Los Muermos",
+    "Habitantes":"17,068"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.7177434,-32.628461 ]
+    },
+    "properties": {
+    "Comuna":"Putaendo",
+    "Habitantes":"16,754"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.0047731,-34.3867245 ]
+    },
+    "properties": {
+    "Comuna":"Pichilemu",
+    "Habitantes":"16,394"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.741653,-35.673627 ]
+    },
+    "properties": {
+    "Comuna":"Villa Alegre",
+    "Habitantes":"16,221"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6981538,-33.398596 ]
+    },
+    "properties": {
+    "Comuna":"El Quisco",
+    "Habitantes":"15,955"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.657068,-32.748282 ]
+    },
+    "properties": {
+    "Comuna":"Santa María",
+    "Habitantes":"15,241"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1256479,-34.9582667 ]
+    },
+    "properties": {
+    "Comuna":"Romeral",
+    "Habitantes":"15,187"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2785119,-34.7290264 ]
+    },
+    "properties": {
+    "Comuna":"Chépica",
+    "Habitantes":"15,037"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7740284,-42.6250525 ]
+    },
+    "properties": {
+    "Comuna":"Chonchi",
+    "Habitantes":"14,858"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6258069,-32.857493 ]
+    },
+    "properties": {
+    "Comuna":"Calle Larga",
+    "Habitantes":"14,832"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1667306,-34.3921609 ]
+    },
+    "properties": {
+    "Comuna":"Peumo",
+    "Habitantes":"14,313"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6016737,-41.6183881 ]
+    },
+    "properties": {
+    "Comuna":"Maullín",
+    "Habitantes":"14,216"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.22038,-40.79987 ]
+    },
+    "properties": {
+    "Comuna":"Río Negro",
+    "Habitantes":"14,085"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2652196,-27.4671706 ]
+    },
+    "properties": {
+    "Comuna":"Tierra Amarilla",
+    "Habitantes":"14,019"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.648829,-32.875133 ]
+    },
+    "properties": {
+    "Comuna":"Catemu",
+    "Habitantes":"13,998"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.259404,-35.281618 ]
+    },
+    "properties": {
+    "Comuna":"Río Claro",
+    "Habitantes":"13,906"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6705534,-33.3647762 ]
+    },
+    "properties": {
+    "Comuna":"Algarrobo",
+    "Habitantes":"13,817"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.651882,-42.377631 ]
+    },
+    "properties": {
+    "Comuna":"Dalcahue",
+    "Habitantes":"13,762"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.88659,-34.23016 ]
+    },
+    "properties": {
+    "Comuna":"Olivar",
+    "Habitantes":"13,608"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1235068,-33.517104 ]
+    },
+    "properties": {
+    "Comuna":"María Pinto",
+    "Habitantes":"13,590"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9447591,-34.4405567 ]
+    },
+    "properties": {
+    "Comuna":"Malloa",
+    "Habitantes":"13,407"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0050958,-31.1790967 ]
+    },
+    "properties": {
+    "Comuna":"Combarbalá",
+    "Habitantes":"13,322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6669341,-33.4557162 ]
+    },
+    "properties": {
+    "Comuna":"El Tabo",
+    "Habitantes":"13,286"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.964898,-34.3563977 ]
+    },
+    "properties": {
+    "Comuna":"Quinta de Tilcoco",
+    "Habitantes":"13,002"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6684725,-34.0355482 ]
+    },
+    "properties": {
+    "Comuna":"Codegua",
+    "Habitantes":"12,988"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.36396,-34.594028 ]
+    },
+    "properties": {
+    "Comuna":"Palmilla",
+    "Habitantes":"12,482"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4163343,-41.15 ]
+    },
+    "properties": {
+    "Comuna":"Fresia",
+    "Habitantes":"12,261"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.3884462,-39.6634886 ]
+    },
+    "properties": {
+    "Comuna":"Puyehue",
+    "Habitantes":"11,667"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.0828027,-30.2357949 ]
+    },
+    "properties": {
+    "Comuna":"Andacollo",
+    "Habitantes":"11,044"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4806504,-34.4762621 ]
+    },
+    "properties": {
+    "Comuna":"Peralillo",
+    "Habitantes":"11,007"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2604976,-30.8277803 ]
+    },
+    "properties": {
+    "Comuna":"Punitaqui",
+    "Habitantes":"10,956"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.625476,-33.648369 ]
+    },
+    "properties": {
+    "Comuna":"Santo Domingo",
+    "Habitantes":"10,900"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3156315,-34.9253441 ]
+    },
+    "properties": {
+    "Comuna":"Rauco",
+    "Habitantes":"10,484"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.688801,-32.83379 ]
+    },
+    "properties": {
+    "Comuna":"Rinconada",
+    "Habitantes":"10,207"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.012176,-40.412331 ]
+    },
+    "properties": {
+    "Comuna":"San Pablo",
+    "Habitantes":"10,030"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.454702,-33.89539 ]
+    },
+    "properties": {
+    "Comuna":"San Pedro",
+    "Habitantes":"9,726"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.7993371,-34.9725157 ]
+    },
+    "properties": {
+    "Comuna":"Hualañé",
+    "Habitantes":"9,657"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.0208891,-35.0958545 ]
+    },
+    "properties": {
+    "Comuna":"Curepto",
+    "Habitantes":"9,448"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.51589,-35.30428 ]
+    },
+    "properties": {
+    "Comuna":"San Rafael",
+    "Habitantes":"9,191"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.42759,-31.391288 ]
+    },
+    "properties": {
+    "Comuna":"Canela",
+    "Habitantes":"9,093"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.8819616,-40.9768373 ]
+    },
+    "properties": {
+    "Comuna":"Puerto Octay",
+    "Habitantes":"8,999"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.6880968,-42.0251552 ]
+    },
+    "properties": {
+    "Comuna":"Hualaihué",
+    "Habitantes":"8,944"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.533411,-35.733683 ]
+    },
+    "properties": {
+    "Comuna":"Chanco",
+    "Habitantes":"8,928"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1108273,-34.6337953 ]
+    },
+    "properties": {
+    "Comuna":"Placilla",
+    "Habitantes":"8,738"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4436234,-35.3855 ]
+    },
+    "properties": {
+    "Comuna":"Pelarco",
+    "Habitantes":"8,422"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4780559,-42.1447134 ]
+    },
+    "properties": {
+    "Comuna":"Quemchi",
+    "Habitantes":"8,352"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.7988408,-35.3959587 ]
+    },
+    "properties": {
+    "Comuna":"Pencahue",
+    "Habitantes":"8,245"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4277236,-42.5349068 ]
+    },
+    "properties": {
+    "Comuna":"Quinchao",
+    "Habitantes":"8,088"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4128272,-40.5107919 ]
+    },
+    "properties": {
+    "Comuna":"San Juan de la Costa",
+    "Habitantes":"7,512"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9511881,-34.26968 ]
+    },
+    "properties": {
+    "Comuna":"Coinco",
+    "Habitantes":"7,359"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4581359,-32.5538059 ]
+    },
+    "properties": {
+    "Comuna":"Zapallar",
+    "Habitantes":"7,339"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6200289,-34.3961235 ]
+    },
+    "properties": {
+    "Comuna":"Marchigüe",
+    "Habitantes":"7,308"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8367473,-32.7712136 ]
+    },
+    "properties": {
+    "Comuna":"Panquehue",
+    "Habitantes":"7,273"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6452075,-34.728699 ]
+    },
+    "properties": {
+    "Comuna":"Lolol",
+    "Habitantes":"6,811"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.984988,-34.9852447 ]
+    },
+    "properties": {
+    "Comuna":"Licantén",
+    "Habitantes":"6,653"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.829287,-33.955577 ]
+    },
+    "properties": {
+    "Comuna":"Navidad",
+    "Habitantes":"6,641"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1002881,-34.0264691 ]
+    },
+    "properties": {
+    "Comuna":"Alhué",
+    "Habitantes":"6,444"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4485013,-32.5072087 ]
+    },
+    "properties": {
+    "Comuna":"Papudo",
+    "Habitantes":"6,356"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.725176,-34.117272 ]
+    },
+    "properties": {
+    "Comuna":"Litueche",
+    "Habitantes":"6,294"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.9001448,-34.6519651 ]
+    },
+    "properties": {
+    "Comuna":"Paredones",
+    "Habitantes":"6,188"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4683592,-42.885723 ]
+    },
+    "properties": {
+    "Comuna":"Queilén",
+    "Habitantes":"5,385"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7095437,-42.918234 ]
+    },
+    "properties": {
+    "Comuna":"Chaitén",
+    "Habitantes":"5,071"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.801674,-43.617824 ]
+    },
+    "properties": {
+    "Comuna":"Palena",
+    "Habitantes":"5,071"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5167478,-30.0278572 ]
+    },
+    "properties": {
+    "Comuna":"Paihuano",
+    "Habitantes":"4,497"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.0215879,-34.840559 ]
+    },
+    "properties": {
+    "Comuna":"Vichuquén",
+    "Habitantes":"4,322"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.8704987,-30.3942132 ]
+    },
+    "properties": {
+    "Comuna":"Río Hurtado",
+    "Habitantes":"4,278"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.200655,-29.511414 ]
+    },
+    "properties": {
+    "Comuna":"La Higuera",
+    "Habitantes":"4,241"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.281646,-35.583408 ]
+    },
+    "properties": {
+    "Comuna":"Empedrado",
+    "Habitantes":"4,142"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.307996,-41.4924307 ]
+    },
+    "properties": {
+    "Comuna":"Cochamó",
+    "Habitantes":"4,023"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6714848,-42.6014407 ]
+    },
+    "properties": {
+    "Comuna":"Puqueldón",
+    "Habitantes":"3,921"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.5945464,-42.4389293 ]
+    },
+    "properties": {
+    "Comuna":"Curaco de Vélez",
+    "Habitantes":"3,829"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6509049,-34.5991409 ]
+    },
+    "properties": {
+    "Comuna":"Pumanque",
+    "Habitantes":"3,421"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.6542,-34.2047 ]
+    },
+    "properties": {
+    "Comuna":"La Estrella",
+    "Habitantes":"3,041"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.8675639,-43.1861986 ]
+    },
+    "properties": {
+    "Comuna":"Futaleufú",
+    "Habitantes":"2,623"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.80368322,-30.04476113 ]
+    },
+    "properties": {
+    "Comuna":"Juan Fernández",
+    "Habitantes":"926"
+    }
+  }
+]
+}

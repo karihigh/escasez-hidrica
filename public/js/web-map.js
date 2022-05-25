@@ -91,7 +91,7 @@ function loadImage(obj){
     let image = document.createElement('div')
     image.className = 'image'
     let imageContent = document.createElement('img')
-    imageContent.src = './public/images/' + obj.properties.id + '_' + obj.properties.comuna + '.png'
+    imageContent.src = './public/images/' + obj.properties.ID + '_' + obj.properties.Comuna + '.png'
 
     let text = document.createElement('div')
     text.className = 'text'
@@ -102,8 +102,8 @@ function loadImage(obj){
     let townLocation = document.createElement('span')
     townLocation.className = 'town-location'
 
-    townName.innerText= obj.properties.comuna + '\n'
-    townLocation.innerText = 'Habitantes: ' + obj.properties.habitantes
+    townName.innerText= obj.properties.Comuna + '\n'
+    townLocation.innerText = 'Habitantes: ' + obj.properties.Habitantes
 
     image.appendChild(imageContent)
     galleryItem.appendChild(image)

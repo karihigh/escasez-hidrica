@@ -2,9 +2,9 @@
 // This program sets a map and loads the images on the webpage. 
 
 // initialize map
-let map = L.map('map').setView([-19.319975, -69.534918], 8);
+let map = L.map('map').setView([-32.250198, -70.923973], 8);
 
-const mapboxUrl = 'https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}?access_token='
+const mapboxUrl = 'https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/{z}/{x}/{y}?access_token='
 const accesToken = 'pk.eyJ1IjoiZ3VpbGxlbW9udGVjaW5vcyIsImEiOiJjanhqOXk1ajUyNG9tM3Rwa2k1NTA5Y3czIn0.empBgsAjclwQah1q9dLjiA'
 
 L.tileLayer(mapboxUrl + accesToken, {
@@ -15,10 +15,10 @@ L.tileLayer(mapboxUrl + accesToken, {
 
 let geojsonMarkerOptions = {
     radius: 4,
-    fillColor: "#515651",
-    color: "#515651",
+    fillColor: "#ffffffd0",
+    color: "#ffffffd0",
     weight: 1,
-    opacity: 0,
+    opacity: 0.2,
     fillOpacity: 1
 }
 

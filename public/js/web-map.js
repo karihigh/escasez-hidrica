@@ -14,7 +14,7 @@ L.tileLayer(mapboxUrl + accesToken, {
 }).addTo(map)
 
 let geojsonMarkerOptions = {
-    radius: 4,
+    radius: 4,  
     fillColor: "#ffffffd0",
     color: "#ffffffd0",
     weight: 1,
@@ -51,7 +51,7 @@ $.getJSON('./public/json/ssr-con-id.geojson', function(data){
     // populates dict with leaflet ids
     for(let key in map._layers){
         if(map._layers[key].feature != undefined){
-            let id = map._layers[key].feature.properties.id
+            let id = map._layers[key].feature.properties.ID
             dict[id] = key
         }
     }
@@ -71,14 +71,14 @@ $.getJSON('./public/json/ssr-con-id.geojson', function(data){
                 // modifies dot's style in the map on hover in
                 map._layers[dict[hoverId]].bringToFront()
                 map._layers[dict[hoverId]].setStyle(geojsonMarkerOptionsHover)
-            }            
+            }
         }, 
         function(){
             let hoverId = $(this).attr('id')
             if(hoverId != undefined && hoverId != 'map') {
                 // restitutes dot's style in the map on hover out
                 map._layers[dict[hoverId]].setStyle(geojsonMarkerOptions)
-            }            
+            }
         }, 
     )
 })
@@ -113,14 +113,14 @@ function loadImage(obj){
     text.appendChild(textContent)
 
     galleryItem.appendChild(text)
-    galleryItem.id = Number(obj.properties.id)
+    galleryItem.id = Number(obj.properties.ID)
     galleryCont.appendChild(galleryItem)
 
     $('.grid-container').append(galleryCont)
 }
 
 function markerMouseOver(e){
-    let idstr = e.sourceTarget.feature.properties.id
+    let idstr = e.sourceTarget.feature.properties.ID
     // Adds class active to img and text html objects, so it gets animated
     document.getElementById(idstr).getElementsByTagName('img')[0].classList.add('active')
     document.getElementById(idstr).getElementsByClassName('text')[0].classList.add('active')
@@ -139,7 +139,7 @@ function markerMouseOver(e){
 }
 
 function markerMouseOut(e){
-    let idstr = e.sourceTarget.feature.properties.id
+    let idstr = e.sourceTarget.feature.properties.ID
     document.getElementById(idstr).getElementsByTagName('img')[0].classList.remove('active')
     document.getElementById(idstr).getElementsByClassName('text')[0].classList.remove('active')
     map._layers[e.sourceTarget._leaflet_id].setStyle(geojsonMarkerOptions)

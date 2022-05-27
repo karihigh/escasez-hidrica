@@ -14,6 +14,7 @@ body{
 
 .header .page-name{
   font-size: 40px;
+  font-weight: 700;
   display: inline-block;
   pointer-events: none;
 }
@@ -91,7 +92,6 @@ body{
   width: 100%;
   height: 100%;
   overflow: hidden;
-  margin: -75px 0 0 0px;
 }
 
 .grid-container .gallery-container .gallery-item .image img{
@@ -99,7 +99,7 @@ body{
   height: 100%;
   object-fit: cover;
   object-position: 50% 50%;
-  /* cursor: pointer; */
+  cursor: pointer;
   transition: .8s ease-in-out;
   
 }
@@ -222,4 +222,19 @@ body{
 #overlay.active {
   opacity: 1;
   pointer-events: all;
+}
+
+p.bajada {
+  margin: 0;
+  font-size: 14px
+}
+
+p.fuente {
+  margin-top:6px;
+  font-size: 10px;
+}
+
+span.subtitulo {
+  font-weight: 500;
+  font-size: 28px;
 }
